@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Python developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Kunal Jain</h1>
+<h3 align="center">A passionate Python developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=king10042003&label=Profile%20views&color=0e75b6&style=flat" alt="king10042003" />
 </p>
 
 - 🔭 I’m currently working on **Report Generation**
@@ -11,7 +11,6 @@
 - 💬 Ask me about **Python, Django, Web Scraping, Automation**
 - 📫 How to reach me: **jkunal316@gmail.com**
 - ⚡ Fun fact: **I automate boring stuff!**
-
 ---
 
 ### 🧰 Languages and Tools
