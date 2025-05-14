@@ -29,7 +29,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=king10042003&show_icons=true&theme=radical" alt="your stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=king10042003&show_icons=true&theme=radical" alt="GitHub stats for king10042003" />
 </p>
 
 <p align="center">
