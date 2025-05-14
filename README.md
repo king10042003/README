@@ -30,11 +30,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=king10042003&show_icons=true&theme=radical" alt="your stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king10042003&theme=radical" alt="streak stats"/>
 </p>
 
 ---
